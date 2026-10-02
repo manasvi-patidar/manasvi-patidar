@@ -89,3 +89,7 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 * 🧠 Most Used Languages
 * 📊 Contribution Activity
 
+## 🤝 Connect With Me
+
+* 🐙 [GitHub](https://github.com/manasvi-patidar)
+* 📧 [Email](mailto:manasvipatidar05.mp@gmail.com)
