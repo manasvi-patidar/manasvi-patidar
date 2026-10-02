@@ -69,6 +69,7 @@ Generative AI · Agentic AI · System Design
 ### 🚀 RepoVerse
 
 A full-stack version control platform with repository management, commit tracking, issue management, and a custom CLI.
+
 **Tech Stack:** React · Node.js · Express · MongoDB · JWT · CLI
 
 🔗 [GitHub](https://github.com/manasvi-patidar/RepoVerse)
@@ -79,3 +80,12 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 **Tech Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
 
 🔗 [GitHub](https://github.com/manasvi-patidar/CivicLens)
+
+## 📊 GitHub Stats
+
+* 💻 Commits
+* 📈 Total Contributions
+* 🔥 Contribution Streak
+* 🧠 Most Used Languages
+* 📊 Contribution Activity
+
