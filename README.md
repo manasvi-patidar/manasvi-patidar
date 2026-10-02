@@ -54,3 +54,7 @@ Cloudinary
 
 ### 🛠️ Developer Tools
 Git · GitHub · Postman
+
+## 🧠 CS Fundamentals
+
+DSA · OOP · DBMS · Operating Systems · Computer Networks · Computer Organization & Architecture · Theory of Computation · Compiler Design
