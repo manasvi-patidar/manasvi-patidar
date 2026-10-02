@@ -1,23 +1,11 @@
-### Hi, I'm Manasvi 👋
+### Hey, I'm Manasvi!
 
 **Full-Stack Engineer · AI/ML Explorer**
 
-I'm a final-year **B.Tech Computer Science & Engineering undergraduate (2023–2027)** and a **Full-Stack Engineer** working primarily with the **MERN stack**.
-
-I enjoy building and deploying **real-world applications**, with a strong foundation in **Computer Science fundamentals** and a growing focus on **Artificial Intelligence and Machine Learning**.
-
-Currently learning **Core AI/ML**, with a focus on **Deep Learning, Generative AI, and Agentic AI**.
+Final-year **B.Tech CSE undergraduate (2023–2027)** and **Full-Stack Engineer** specializing in the **MERN stack**. I build and deploy **real-world applications** backed by strong **Computer Science fundamentals**, while expanding into **AI/ML**, with a focus on **Deep Learning, Generative AI, and Agentic AI**.
 
 **Areas of Interest:**  
 Full-Stack Development · Backend Engineering · AI/ML · Generative AI · Agentic AI · System Design
-
-## About Me
-
-I enjoy building software from the ground up — turning an idea into a working product, from the backend and APIs to the frontend.
-
-I learn by building and experimenting, with a focus on understanding **how things work behind the code**, not just how to use them.
-
-My foundation comes from **Computer Science fundamentals**, while my current journey is taking me deeper into **AI/ML and intelligent systems**.
 
 ## ⚙️ Tech Arsenal
 
@@ -37,8 +25,8 @@ Next.js · Vite
 Redux · Redux Toolkit
 
 ### 🗄️ Databases & ORM
-MongoDB · MySQL · PostgreSQL  
-Mongoose · Prisma · Neon
+MongoDB · MySQL · PostgreSQL · Neon
+Mongoose · Prisma
 
 ### 🔐 Authentication & Security
 JWT · bcrypt · RBAC
@@ -59,12 +47,37 @@ Git · GitHub · Postman
 
 DSA · OOP · DBMS · Operating Systems · Computer Networks · Computer Organization & Architecture · Theory of Computation · Compiler Design
 
-## 🎯 Areas of Interest
+## What I Work With
 
-Full-Stack Development · Backend Engineering · AI/ML  
-Generative AI · Agentic AI · System Design
+Full-Stack Development · Backend Engineering
 
-## 🚀 Featured Projects
+## Currently Exploring
+
+AI/ML · Generative AI · Agentic AI
+
+## On My Radar
+
+System Design · Distributed Systems
+
+## How I Approach Things
+
+**Keep it simple**  
+If it can be simpler, it probably should be.
+
+**Build it well**  
+If it’s worth building, it’s worth building well.
+
+**Stay curious**  
+If I don't understand something, I dig deeper.
+
+**Details matter**  
+Good work shows in the things most people never see.
+
+**Keep iterating**  
+There’s usually room to make it clearer, cleaner, or better.
+
+
+## 🚀 Built & Shipped
 
 ### 🚀 RepoVerse
 
@@ -81,7 +94,7 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 
 🔗 [GitHub](https://github.com/manasvi-patidar/CivicLens)
 
-## 📊 GitHub Stats
+## 📊 The Work So Far
 
 * 💻 Commits
 * 📈 Total Contributions
@@ -89,7 +102,8 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 * 🧠 Most Used Languages
 * 📊 Contribution Activity
 
-## 🤝 Connect With Me
+## 🤝 Let’s Build Together
 
 * 🐙 [GitHub](https://github.com/manasvi-patidar)
 * 📧 [Email](mailto:manasvipatidar05.mp@gmail.com)
+* 
