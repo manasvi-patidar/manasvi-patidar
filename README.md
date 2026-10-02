@@ -58,3 +58,8 @@ Git · GitHub · Postman
 ## 🧠 CS Fundamentals
 
 DSA · OOP · DBMS · Operating Systems · Computer Networks · Computer Organization & Architecture · Theory of Computation · Compiler Design
+
+## 🎯 Areas of Interest
+
+Full-Stack Development · Backend Engineering · AI/ML  
+Generative AI · Agentic AI · System Design
