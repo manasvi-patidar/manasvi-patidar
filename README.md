@@ -10,3 +10,11 @@ Currently learning **Core AI/ML**, with a focus on **Deep Learning, Generative A
 
 **Areas of Interest:**  
 Full-Stack Development · Backend Engineering · AI/ML · Generative AI · Agentic AI · System Design
+
+## About Me
+
+I enjoy building software from the ground up — turning an idea into a working product, from the backend and APIs to the frontend.
+
+I learn by building and experimenting, with a focus on understanding **how things work behind the code**, not just how to use them.
+
+My foundation comes from **Computer Science fundamentals**, while my current journey is taking me deeper into **AI/ML and intelligent systems**.
