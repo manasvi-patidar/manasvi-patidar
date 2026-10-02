@@ -63,3 +63,19 @@ DSA · OOP · DBMS · Operating Systems · Computer Networks · Computer Organiz
 
 Full-Stack Development · Backend Engineering · AI/ML  
 Generative AI · Agentic AI · System Design
+
+## 🚀 Featured Projects
+
+### 🚀 RepoVerse
+
+A full-stack version control platform with repository management, commit tracking, issue management, and a custom CLI.
+**Tech Stack:** React · Node.js · Express · MongoDB · JWT · CLI
+
+🔗 [GitHub](https://github.com/manasvi-patidar/RepoVerse)
+
+### 🏙️ CivicLens
+
+A full-stack civic issue platform connecting citizens, volunteers, and authorities to report, track, assign, and resolve civic issues.
+**Tech Stack:** React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
+
+🔗 [GitHub](https://github.com/manasvi-patidar/CivicLens)
