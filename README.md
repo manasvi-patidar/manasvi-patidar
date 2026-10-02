@@ -18,3 +18,39 @@ I enjoy building software from the ground up — turning an idea into a working 
 I learn by building and experimenting, with a focus on understanding **how things work behind the code**, not just how to use them.
 
 My foundation comes from **Computer Science fundamentals**, while my current journey is taking me deeper into **AI/ML and intelligent systems**.
+
+## ⚙️ Tech Arsenal
+
+### 💻 Languages
+Java · C · Python · JavaScript · TypeScript
+
+### 🎨 Frontend
+React · Tailwind CSS · Bootstrap · Material UI
+
+### ⚙️ Backend
+Node.js · Express.js
+
+### 🧩 Frameworks & Build Tools
+Next.js · Vite
+
+### 🔄 State Management
+Redux · Redux Toolkit
+
+### 🗄️ Databases & ORM
+MongoDB · MySQL · PostgreSQL  
+Mongoose · Prisma · Neon
+
+### 🔐 Authentication & Security
+JWT · bcrypt · RBAC
+
+### 🔌 APIs & Real-Time
+REST APIs · Socket.IO · WebRTC
+
+### ☁️ DevOps & Deployment
+Docker · CI/CD · Kubernetes · Vercel · Render
+
+### 📦 Cloud & Storage
+Cloudinary
+
+### 🛠️ Developer Tools
+Git · GitHub · Postman
