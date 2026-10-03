@@ -166,7 +166,9 @@ A full-stack version control platform with repository management, commit trackin
 **Stack**
 React · Node.js · Express · MongoDB · JWT · CLI
 
-**[↗ GitHub](https://github.com/manasvi-patidar/RepoVerse)**
+<a href="https://github.com/manasvi-patidar/RepoVerse">
+  <img src="https://img.shields.io/badge/Explore_RepoVerse-F7EFF6?style=flat-square&logo=github&logoColor=98648F&labelColor=F7EFF6" />
+</a>
 
 </td>
 
@@ -179,7 +181,9 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 **Stack**
 React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
 
-**[↗ GitHub](https://github.com/manasvi-patidar/CivicLens)**
+<a href="https://github.com/manasvi-patidar/CivicLens">
+  <img src="https://img.shields.io/badge/Explore_CivicLens-F7EFF6?style=flat-square&logo=github&logoColor=98648F&labelColor=F7EFF6" />
+</a>
 
 </td>
 </tr>
@@ -222,5 +226,4 @@ width="45%"
     <img src="https://img.shields.io/badge/Email-F7EFF6?style=flat-square&logo=gmail&logoColor=98648F&labelColor=F7EFF6" />
   </a>
 </p>
-
 
