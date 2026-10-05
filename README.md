@@ -32,7 +32,6 @@ I build and deploy real-world applications backed by strong **Computer Science f
 
 ### Languages
 
-<img src="https://img.shields.io/badge/Java-F7EFF6?style=for-the-badge&logo=openjdk&logoColor=98648F" />
 <img src="https://img.shields.io/badge/C-F7EFF6?style=for-the-badge&logo=c&logoColor=98648F" />
 <img src="https://img.shields.io/badge/Python-F7EFF6?style=for-the-badge&logo=python&logoColor=98648F" />
 <img src="https://img.shields.io/badge/JavaScript-F7EFF6?style=for-the-badge&logo=javascript&logoColor=98648F" />
@@ -84,8 +83,6 @@ I build and deploy real-world applications backed by strong **Computer Science f
 ### DevOps & Deployment
 
 <img src="https://img.shields.io/badge/Docker-F7EFF6?style=for-the-badge&logo=docker&logoColor=98648F" />
-<img src="https://img.shields.io/badge/CI%2FCD-F7EFF6?style=for-the-badge&logo=githubactions&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Kubernetes-F7EFF6?style=for-the-badge&logo=kubernetes&logoColor=98648F" />
 <img src="https://img.shields.io/badge/Vercel-F7EFF6?style=for-the-badge&logo=vercel&logoColor=98648F" />
 <img src="https://img.shields.io/badge/Render-F7EFF6?style=for-the-badge&logo=render&logoColor=98648F" />
 
@@ -226,4 +223,3 @@ width="45%"
     <img src="https://img.shields.io/badge/Email-F7EFF6?style=flat-square&logo=gmail&logoColor=98648F&labelColor=F7EFF6" />
   </a>
 </p>
-
