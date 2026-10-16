@@ -70,21 +70,21 @@ I build and deploy real-world applications backed by strong **Computer Science f
 
 ### Authentication & Security
 
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/RBAC-4A4A4A?style=for-the-badge&logoColor=FDFBD4" />
 
 ### APIs & Real-Time
 
-<img src="https://img.shields.io/badge/REST_APIs-4A4A4A?style=for-the-badge&logoColor=FDFBD4" />
-<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" />
 
 ### DevOps & Deployment
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
-<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white" />
 
 ### Cloud & Storage
 
