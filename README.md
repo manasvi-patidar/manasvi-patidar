@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=135&section=header&text=Manasvi%20Patidar&fontSize=36&fontColor=FDFBD4&fontAlignY=48&animation=fadeIn" width="100%" alt="Manasvi Patidar" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=160&section=header&text=Manasvi%20Patidar&fontSize=36&fontColor=FDFBD4&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer&descSize=16&descColor=FDFBD4&descAlignY=65&animation=fadeIn" width="100%" alt="Manasvi Patidar - Full-Stack Engineer | AI/ML Explorer" />
 
-###   Full-Stack Engineer · AI/ML Explorer
+<br><br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&duration=3500&pause=1200&color=4A4A4A&center=true&vCenter=true&width=680&height=35&lines=%E2%86%92+Building+thoughtful+full-stack+applications+%E2%9C%A7;%E2%86%92+Curious+about+what%27s+under+the+hood+%E2%99%A1;%E2%86%92+Exploring+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Generative+AI+%C2%B7+Agentic+AI+%E2%9C%A6" alt="Typing animation" />
 
