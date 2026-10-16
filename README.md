@@ -164,7 +164,7 @@ A full-stack version control platform with repository management, commit trackin
 React · Node.js · Express · MongoDB · JWT · CLI
 
 <a href="https://github.com/manasvi-patidar/RepoVerse">
-  <img src="https://img.shields.io/badge/Explore_RepoVerse-4A4A4A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Explore_RepoVerse-3A3A3A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
 </a>
 
 </td>
@@ -179,7 +179,7 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
 
 <a href="https://github.com/manasvi-patidar/CivicLens">
-  <img src="https://img.shields.io/badge/Explore_CivicLens-4A4A4A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
+  <img src="https://img.shields.io/badge/Explore_CivicLens-3A3A3A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
 </a>
 
 </td>
@@ -192,14 +192,14 @@ React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=manasvi-patidar&hide_border=true&background=4A4A4A&ring=FDFBD4&fire=FDFBD4&currStreakLabel=FDFBD4&sideLabels=FDFBD4&dates=FDFBD4&currStreakNum=FDFBD4&sideNums=FDFBD4"
+src="https://github-readme-streak-stats.herokuapp.com/?user=manasvi-patidar&hide_border=true&background=3A3A3A&ring=FDFBD4&fire=FDFBD4&currStreakLabel=FDFBD4&sideLabels=FDFBD4&dates=FDFBD4&currStreakNum=FDFBD4&sideNums=FDFBD4"
 width="75%"
 />
 
 <br/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=4A4A4A&title_color=FDFBD4&text_color=FDFBD4&langs_count=6"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=3A3A3A&title_color=FDFBD4&text_color=FDFBD4&langs_count=6"
 width="45%"
 />
 
@@ -216,10 +216,10 @@ width="45%"
 
 <p align="center">
   <a href="https://github.com/manasvi-patidar">
-    <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
+    <img src="https://img.shields.io/badge/GitHub-3A3A3A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
   </a>
   &nbsp;
   <a href="mailto:manasvipatidar05.mp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-4A4A4A?style=flat-square&logo=gmail&logoColor=FDFBD4&labelColor=4A4A4A" />
+    <img src="https://img.shields.io/badge/Email-3A3A3A?style=flat-square&logo=gmail&logoColor=FDFBD4&labelColor=4A4A4A" />
   </a>
 </p>
