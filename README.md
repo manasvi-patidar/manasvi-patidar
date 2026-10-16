@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=160&section=header&text=Manasvi%20Patidar&fontSize=36&fontColor=FDFBD4&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer&descSize=16&descColor=FDFBD4&descAlignY=65&animation=fadeIn" width="100%" alt="Manasvi Patidar - Full-Stack Engineer | AI/ML Explorer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=160&section=header&text=Manasvi%20Patidar&fontSize=36&fontColor=FDFBD4&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=FDFBD4&descAlignY=65&animation=fadeIn" width="100%" alt="Manasvi Patidar - Full-Stack Engineer | AI/ML Explorer" />
 
 <br><br>
 
