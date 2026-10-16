@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=F7EFF6&height=135&section=header&text=Hey,%20I'm%20Manasvi!%20%E2%99%A1&fontSize=36&fontColor=98648F&fontAlignY=48&animation=fadeIn" width="100%" alt="Hey, I'm Manasvi!" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=135&section=header&text=Manasvi%20Patidar&fontSize=36&fontColor=FDFBD4&fontAlignY=48&animation=fadeIn" width="100%" alt="Manasvi Patidar" />
 
 ###   Full-Stack Engineer · AI/ML Explorer
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&duration=3500&pause=1200&color=98648F&center=true&vCenter=true&width=680&height=35&lines=%E2%86%92+Building+thoughtful+full-stack+applications+%E2%9C%A7;%E2%86%92+Curious+about+what%27s+under+the+hood+%E2%99%A1;%E2%86%92+Exploring+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Generative+AI+%C2%B7+Agentic+AI+%E2%9C%A6" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&duration=3500&pause=1200&color=4A4A4A&center=true&vCenter=true&width=680&height=35&lines=%E2%86%92+Building+thoughtful+full-stack+applications+%E2%9C%A7;%E2%86%92+Curious+about+what%27s+under+the+hood+%E2%99%A1;%E2%86%92+Exploring+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Generative+AI+%C2%B7+Agentic+AI+%E2%9C%A6" alt="Typing animation" />
 
 </div>
 
@@ -32,69 +32,69 @@ I build and deploy real-world applications backed by strong **Computer Science f
 
 ### Languages
 
-<img src="https://img.shields.io/badge/C-F7EFF6?style=for-the-badge&logo=c&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Python-F7EFF6?style=for-the-badge&logo=python&logoColor=98648F" />
-<img src="https://img.shields.io/badge/JavaScript-F7EFF6?style=for-the-badge&logo=javascript&logoColor=98648F" />
-<img src="https://img.shields.io/badge/TypeScript-F7EFF6?style=for-the-badge&logo=typescript&logoColor=98648F" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=FFFFFF" />
 
 ### Frontend
 
-<img src="https://img.shields.io/badge/React-F7EFF6?style=for-the-badge&logo=react&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-F7EFF6?style=for-the-badge&logo=tailwindcss&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Bootstrap-F7EFF6?style=for-the-badge&logo=bootstrap&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Material_UI-F7EFF6?style=for-the-badge&logo=mui&logoColor=98648F" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=FFFFFF" />
 
 ### Backend
 
-<img src="https://img.shields.io/badge/Node.js-F7EFF6?style=for-the-badge&logo=nodedotjs&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Express.js-F7EFF6?style=for-the-badge&logo=express&logoColor=98648F" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" />
 
 ### Frameworks & Build Tools
 
-<img src="https://img.shields.io/badge/Next.js-F7EFF6?style=for-the-badge&logo=nextdotjs&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Vite-F7EFF6?style=for-the-badge&logo=vite&logoColor=98648F" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" />
 
 ### State Management
 
-<img src="https://img.shields.io/badge/Redux-F7EFF6?style=for-the-badge&logo=redux&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-F7EFF6?style=for-the-badge&logo=redux&logoColor=98648F" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" />
 
 ### Databases & ORM
 
-<img src="https://img.shields.io/badge/MongoDB-F7EFF6?style=for-the-badge&logo=mongodb&logoColor=98648F" />
-<img src="https://img.shields.io/badge/MySQL-F7EFF6?style=for-the-badge&logo=mysql&logoColor=98648F" />
-<img src="https://img.shields.io/badge/PostgreSQL-F7EFF6?style=for-the-badge&logo=postgresql&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Neon-F7EFF6?style=for-the-badge&logo=neon&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Mongoose-F7EFF6?style=for-the-badge&logo=mongoose&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Prisma-F7EFF6?style=for-the-badge&logo=prisma&logoColor=98648F" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Neon-000000?style=for-the-badge&logo=neon&logoColor=00E599" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=FFFFFF" />
 
 ### Authentication & Security
 
-<img src="https://img.shields.io/badge/JWT-F7EFF6?style=for-the-badge&logo=jsonwebtokens&logoColor=98648F" />
-<img src="https://img.shields.io/badge/bcrypt-F7EFF6?style=for-the-badge&logoColor=98648F" />
-<img src="https://img.shields.io/badge/RBAC-F7EFF6?style=for-the-badge&logoColor=98648F" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/bcrypt-338033?style=for-the-badge&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/RBAC-4A4A4A?style=for-the-badge&logoColor=FDFBD4" />
 
 ### APIs & Real-Time
 
-<img src="https://img.shields.io/badge/REST_APIs-F7EFF6?style=for-the-badge&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Socket.IO-F7EFF6?style=for-the-badge&logo=socketdotio&logoColor=98648F" />
-<img src="https://img.shields.io/badge/WebRTC-F7EFF6?style=for-the-badge&logo=webrtc&logoColor=98648F" />
+<img src="https://img.shields.io/badge/REST_APIs-4A4A4A?style=for-the-badge&logoColor=FDFBD4" />
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=FFFFFF" />
 
 ### DevOps & Deployment
 
-<img src="https://img.shields.io/badge/Docker-F7EFF6?style=for-the-badge&logo=docker&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Vercel-F7EFF6?style=for-the-badge&logo=vercel&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Render-F7EFF6?style=for-the-badge&logo=render&logoColor=98648F" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FFFFFF" />
 
 ### Cloud & Storage
 
-<img src="https://img.shields.io/badge/Cloudinary-F7EFF6?style=for-the-badge&logo=cloudinary&logoColor=98648F" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=FFFFFF" />
 
 ### Developer Tools
 
-<img src="https://img.shields.io/badge/Git-F7EFF6?style=for-the-badge&logo=git&logoColor=98648F" />
-<img src="https://img.shields.io/badge/GitHub-F7EFF6?style=for-the-badge&logo=github&logoColor=98648F" />
-<img src="https://img.shields.io/badge/Postman-F7EFF6?style=for-the-badge&logo=postman&logoColor=98648F" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=FFFFFF" />
 
 </div>
 
@@ -164,7 +164,7 @@ A full-stack version control platform with repository management, commit trackin
 React · Node.js · Express · MongoDB · JWT · CLI
 
 <a href="https://github.com/manasvi-patidar/RepoVerse">
-  <img src="https://img.shields.io/badge/Explore_RepoVerse-F7EFF6?style=flat-square&logo=github&logoColor=98648F&labelColor=F7EFF6" />
+  <img src="https://img.shields.io/badge/Explore_RepoVerse-4A4A4A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
 </a>
 
 </td>
@@ -179,7 +179,7 @@ A full-stack civic issue platform connecting citizens, volunteers, and authoriti
 React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
 
 <a href="https://github.com/manasvi-patidar/CivicLens">
-  <img src="https://img.shields.io/badge/Explore_CivicLens-F7EFF6?style=flat-square&logo=github&logoColor=98648F&labelColor=F7EFF6" />
+  <img src="https://img.shields.io/badge/Explore_CivicLens-4A4A4A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
 </a>
 
 </td>
@@ -192,14 +192,14 @@ React · TypeScript · Node.js · Express · PostgreSQL · Prisma · JWT
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=manasvi-patidar&hide_border=true&background=F7EFF6&ring=98648F&fire=98648F&currStreakLabel=98648F&sideLabels=98648F&dates=98648F&currStreakNum=98648F&sideNums=98648F"
+src="https://github-readme-streak-stats.herokuapp.com/?user=manasvi-patidar&hide_border=true&background=4A4A4A&ring=FDFBD4&fire=FDFBD4&currStreakLabel=FDFBD4&sideLabels=FDFBD4&dates=FDFBD4&currStreakNum=FDFBD4&sideNums=FDFBD4"
 width="75%"
 />
 
 <br/>
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=F7EFF6&title_color=98648F&text_color=98648F&langs_count=6"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=4A4A4A&title_color=FDFBD4&text_color=FDFBD4&langs_count=6"
 width="45%"
 />
 
@@ -216,10 +216,10 @@ width="45%"
 
 <p align="center">
   <a href="https://github.com/manasvi-patidar">
-    <img src="https://img.shields.io/badge/GitHub-F7EFF6?style=flat-square&logo=github&logoColor=98648F&labelColor=F7EFF6" />
+    <img src="https://img.shields.io/badge/GitHub-4A4A4A?style=flat-square&logo=github&logoColor=FDFBD4&labelColor=4A4A4A" />
   </a>
   &nbsp;
   <a href="mailto:manasvipatidar05.mp@gmail.com">
-    <img src="https://img.shields.io/badge/Email-F7EFF6?style=flat-square&logo=gmail&logoColor=98648F&labelColor=F7EFF6" />
+    <img src="https://img.shields.io/badge/Email-4A4A4A?style=flat-square&logo=gmail&logoColor=FDFBD4&labelColor=4A4A4A" />
   </a>
 </p>
