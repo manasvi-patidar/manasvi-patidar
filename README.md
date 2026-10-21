@@ -4,7 +4,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&duration=3500&pause=1200&color=ba9882&center=true&vCenter=true&width=680&height=35&lines=%E2%86%92+Building+thoughtful+full-stack+applications+%E2%9C%A7;%E2%86%92+Curious+about+what%27s+under+the+hood+%E2%99%A1;%E2%86%92+Exploring+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Generative+AI+%C2%B7+Agentic+AI+%E2%9C%A6" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Quicksand&weight=600&size=16&duration=3500&pause=1200&color=BD9875&center=true&vCenter=true&width=680&height=35&lines=%E2%86%92+Building+thoughtful+full-stack+applications+%E2%9C%A7;%E2%86%92+Curious+about+what%27s+under+the+hood+%E2%99%A1;%E2%86%92+Exploring+AI%2FML+%C2%B7+Deep+Learning+%C2%B7+Generative+AI+%C2%B7+Agentic+AI+%E2%9C%A6" alt="Typing animation" />
 
 </div>
 
