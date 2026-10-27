@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=160&section=header&text=Manasvi%20Patidar&fontSize=32&fontColor=FDFBD4&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Explorer&descSize=18&descColor=b08968&descAlignY=65&animation=fadeIn" width="100%" alt="Manasvi Patidar - Full-Stack Engineer | AI/ML Explorer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=3A3A3A&height=160&section=header&text=Manasvi%20Patidar&fontSize=32&fontColor=FDFBD4&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Data%20Science%20and%20AI&descSize=18&descColor=b08968&descAlignY=65&animation=fadeIn" width="100%" alt="Manasvi Patidar - Full-Stack Engineer | Data Science and AI" />
 
 <br><br>
 
@@ -55,23 +55,20 @@ I build and deploy real-world applications backed by strong **Computer Science f
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="23" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF" height="23" />
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF" height="23" />
-<img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=FFFFFF" height="23" />
 
 ### Backend
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" height="23" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=FFFFFF" height="23" />
 
-### Frameworks & Tooling
+### Frameworks & Build Tools
 
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF" height="23" />
 <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=FFD62E" height="23" />
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" height="23" alt="npm"/>
 
 ### State Management
 
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" height="23" />
-<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="23" alt="Redux Toolkit"/>
 
 ### Databases 
 
