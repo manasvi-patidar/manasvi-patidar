@@ -200,8 +200,7 @@ width="45%"
 ## ✦ Let's Connect
 
 <p align="center">
-  Always happy to talk about what I'm building,<br/>
-  what I'm learning, or what could be built next.
+  Got a cool idea? Let's give it a repository.
 </p>
 
 <p align="center">
