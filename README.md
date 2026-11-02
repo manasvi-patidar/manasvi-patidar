@@ -176,27 +176,25 @@ Good work shows in the things most people never see.
 **05 — Keep iterating**
 There’s usually room to make it clearer, cleaner, or better.
 
-
 ## ✦ GitHub Activity
 
 <div align="center">
 
 <img
-src="https://streak-stats.demolab.com/?user=manasvi-patidar&hide_border=true&background=3A3A3A&ring=FDFBD4&fire=FDFBD4&currStreakLabel=FDFBD4&sideLabels=FDFBD4&dates=FDFBD4&currStreakNum=FDFBD4&sideNums=FDFBD4"
+src="https://github-readme-streak-stats.herokuapp.com/?user=manasvi-patidar&hide_border=true&background=3A3A3A&ring=FDFBD4&fire=FDFBD4&currStreakLabel=FDFBD4&sideLabels=FDFBD4&dates=FDFBD4&currStreakNum=FDFBD4&sideNums=FDFBD4"
 width="75%"
 />
 
 <br/>
 
 <img
-src="https://github-stats-extended.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=3A3A3A&title_color=FDFBD4&text_color=FDFBD4&langs_count=6"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=3A3A3A&title_color=FDFBD4&text_color=FDFBD4&langs_count=6"
 width="45%"
 />
 
 <br/>
 
 </div>
-
 
 ## ✦ Let's Connect
 
