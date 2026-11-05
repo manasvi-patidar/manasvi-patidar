@@ -187,13 +187,6 @@ width="75%"
 
 <br/>
 
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=manasvi-patidar&layout=compact&hide_border=true&bg_color=3A3A3A&title_color=FDFBD4&text_color=FDFBD4&langs_count=6"
-width="45%"
-/>
-
-<br/>
-
 </div>
 
 ## ✦ Let's Connect
