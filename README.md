@@ -192,7 +192,7 @@ width="75%"
 ## ✦ Let's Connect
 
 <p align="center">
-  Got a cool idea? Let's give it a repository!
+  Got a cool idea? Let's give it a repository.
 </p>
 
 <p align="center">
